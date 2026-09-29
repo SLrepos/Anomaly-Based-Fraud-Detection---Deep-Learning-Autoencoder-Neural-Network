@@ -1,4 +1,4 @@
-# 🔍 Anomaly-Based Credit Card Fraud Detection using Autoencoder
+# 🔍 Credit Card Fraud Detection using Autoencoder
 
 ## Overview
 
