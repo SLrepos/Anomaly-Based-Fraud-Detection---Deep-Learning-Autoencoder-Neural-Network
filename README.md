@@ -26,7 +26,7 @@ By leveraging the **reconstruction error** from an **unsupervised Autoencoder Ne
   - Applied **PCA** and **t-SNE** to visualize data clusters and data separability  
 
 - ✅ **Robust Evaluation**:  
-  - **Confusion Matrix**, **ROC & PR Curves**, **Precision, Recall, and F1 Score**  
+  - **Confusion Matrix**, **ROC & PR Curves**, **AUC & AUPRC**, **Precision, Recall, and F1 Score**  
   - Clear visualization of trade-offs between model metrics with best threshold
 
 ---
