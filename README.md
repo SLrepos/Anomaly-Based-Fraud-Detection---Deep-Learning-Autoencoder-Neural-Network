@@ -34,5 +34,3 @@ By leveraging the **reconstruction error** from an **unsupervised Autoencoder Ne
 ## 🙋‍♀️ About Me
   - I'm a data science enthusiast who enjoys applying ML to real-world problems. 😎
 
----
-⭐ *If you found this interesting or helpful, feel free to star the repo!* ⭐
