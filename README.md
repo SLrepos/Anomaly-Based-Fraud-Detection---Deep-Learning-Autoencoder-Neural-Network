@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a **Deep Learning-based approach** to detecting fraudulent credit card transactions using an **Autoencoder**. The model was trained on the popular [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), which contains anonymized transaction data labeled as fraudulent or legitimate.
+While common fraud detection approaches include Logistic Regression, Random Forest, XGBoost, and LightGBM, this project explores a **Deep Learning-based anomaly detection approach** using an **Autoencoder** to detect potentially fraudulent credit card transactions in highly imbalanced data. The model was trained on the popular [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), which contains anonymized transaction data labeled as fraudulent or legitimate.
 
 By leveraging the **reconstruction error** from an **unsupervised Autoencoder Neural Network** and the power of **Tensorflow**, this approach effectively identifies anomalous patterns indicative of fraud — a common real-world scenario where labeled fraud data is scarce or imbalanced.
 
